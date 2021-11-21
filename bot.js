@@ -1,6 +1,6 @@
 
-/* Copyright (C) 2020 Kavishka Sandaruwan
-RECODDED BY KAVISHKA
+/* Copyright (C) 2020 Queen Alex
+RECODDED BY EN-CUZIER 
 */
 
 const os = require("os");
@@ -95,7 +95,7 @@ async function whatsAsena () {
     })    
 
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('Lusifar')}${chalk.blue.bold('Bot')}
+        console.log(`${chalk.green.bold('Queen')}${chalk.blue.bold('Alexa')}
 ${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
 ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
     });
