@@ -1,14 +1,14 @@
 {
-    "name": "Lusifar bot powerd by kaviyaah",
-    "description": "Lusifar bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.ibb.co/qsGX8NM/2264186-1.jpg",
+    "name": "⦁═Queen 👸 Alexa═⦁",
+    "description": "Alexa - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "logo": "https://telegra.ph/file/4b978de48c417dc1f4cb1.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/kavishkaya/Botlusifar",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
     "env": {
-        "LUSIFAR_SESSION": {
+        "ALEXA_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Lusifar Session.",
             "required": true
         },
@@ -34,12 +34,12 @@
         "Z_BOT_NAME": {	
             "description": "give a name you disire to give your bot (for auto reply lusifar to identify)",	
             "required": false,	
-            "value": "Lusifar"	
+            "value": "⦁═Queen 👸 Alexa═⦁"	
         },	
         "Z_DEP_NAME": {	
             "description": "bot deployer name make it short  (for auto reply Lusifar to identify)",	
             "required": false,	
-            "value": "kavishka"	
+            "value": "En-cuzier"	
         },	
         "Z_DEP_REPLY": {	
             "description": "enter the reply message you want when deployer name is typed by users  (for auto reply pink to identify)",	
@@ -164,7 +164,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "Lusifar bot"
+            "value": "⦁═Queen 👸 Alexa═⦁"
         },      
         "TALKING_PINKY": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
@@ -261,7 +261,7 @@
         "TAG_REPLY": {
             "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
             "required": false ,
-           "value": "Lusifar Tag all"
+           "value": "⦁═Queen 👸 Alexa═⦁"
             
         },
         "NO_ONLINE": {
