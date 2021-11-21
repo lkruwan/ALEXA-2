@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/Chamodya-official/ALEXA /root/WhatsAsenaDuplicated
+RUN git clone https://github.com/lkruwan/ALEXA-2/ /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
 RUN git clone https://github.com/Chamodya-official/uploads
 ENV TZ=Europe/Istanbul
